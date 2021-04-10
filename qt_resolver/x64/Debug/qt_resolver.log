@@ -1,0 +1,40 @@
+﻿  pch.cpp
+  Asm.cpp
+  Auxiliary.cpp
+  Cmd.cpp
+  Memory.cpp
+C:\Users\123\Desktop\qt5_resolver\SRE\src\Memory.cpp(65,33): warning C4244: “参数”: 从“fword”转换到“dword”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\SRE\src\Memory.cpp(66,32): warning C4244: “参数”: 从“fword”转换到“dword”，可能丢失数据
+  SREException.cpp
+  SREProc.cpp
+C:\Users\123\Desktop\qt5_resolver\SRE\src\SREProc.cpp(154,7): warning C4101: “p”: 未引用的局部变量
+  SysExp.cpp
+  DpMain.cpp
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\DpMain.cpp(9,54): warning C4244: “参数”: 从“duint”转换到“dword”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\DpMain.cpp(20,37): warning C4244: “参数”: 从“duint”转换到“dword”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\DpMain.cpp(25,43): warning C4244: “参数”: 从“duint”转换到“dword”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\DpMain.cpp(38,9): warning C4312: “reinterpret_cast”: 从“dword”转换到更大的“void_ptr”
+  MetaData.cpp
+  MetaStrData.cpp
+  plugin.cpp
+  pluginmain.cpp
+  Resolver.cpp
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(23,33): warning C4244: “参数”: 从“Gauge”转换到“dword”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(23,20): warning C4244: “参数”: 从“Gauge”转换到“dword”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(48,16): warning C4244: “参数”: 从“duint”转换到“unsigned int”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(49,16): warning C4244: “参数”: 从“duint”转换到“unsigned int”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(50,16): warning C4244: “参数”: 从“duint”转换到“unsigned int”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(51,16): warning C4244: “参数”: 从“duint”转换到“unsigned int”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(52,16): warning C4244: “参数”: 从“duint”转换到“unsigned int”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(53,16): warning C4244: “参数”: 从“duint”转换到“unsigned int”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(54,16): warning C4244: “参数”: 从“duint”转换到“unsigned int”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(139,50): warning C4244: “+=”: 从“duint”转换到“int”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(149,16): warning C4312: “reinterpret_cast”: 从“dword”转换到更大的“void_ptr”
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(156,16): warning C4312: “reinterpret_cast”: 从“dword”转换到更大的“void_ptr”
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(170,5): warning C4312: “reinterpret_cast”: 从“dword”转换到更大的“void_ptr”
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(174,9): warning C4312: “reinterpret_cast”: 从“dword”转换到更大的“void_ptr”
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(194,31): warning C4267: “=”: 从“size_t”转换到“dword”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(202,52): warning C4244: “+=”: 从“duint”转换到“dword”，可能丢失数据
+C:\Users\123\Desktop\qt5_resolver\qt_resolver\Resolver.cpp(228,54): warning C4244: “+=”: 从“duint”转换到“int”，可能丢失数据
+  正在生成代码...
+x32dbg.lib(x32dbg.dll) : fatal error LNK1112: 模块计算机类型“x86”与目标计算机类型“x64”冲突
